@@ -1,3 +1,4 @@
+git log --oneline
 https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant
 
 https://github.com/lukas/ml-class/tree/master/videos/cnn-audio
@@ -21,3 +22,4 @@ http://www.uefap.com/writing/report/rainfor.htm
 https://spacy.io/api/doc
 https://spacy.io/api/sentencizer
 https://stackoverflow.com/questions/33289820/noun-phrases-with-spacy
+https://realpython.com/natural-language-processing-spacy-python/
